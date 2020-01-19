@@ -7,4 +7,7 @@ git add .
 git commit -m "Editting README.md"
 git push
 
-
+git status 
+git add .
+git commit -m "Adding remaining files"
+git push
