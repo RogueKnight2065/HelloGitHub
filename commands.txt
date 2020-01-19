@@ -1,0 +1,10 @@
+cd Desktop
+git clone https://github.com/RogueKnight2065/HelloGitHub.git
+
+vim README.md (Changing the README as requested)
+git status
+git add .
+git commit -m "Editting README.md"
+git push
+
+
